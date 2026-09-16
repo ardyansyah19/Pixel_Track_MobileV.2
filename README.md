@@ -1,4 +1,5 @@
-# Block Star Tetris 🌟
+# Block Star Tetris
+By Ahmad Riko Dyansyah
 
 Game Tetris mobile berwarna-warni, dibuat dengan **Flutter (Dart)**.
 Target pemain: anak-anak & remaja.
