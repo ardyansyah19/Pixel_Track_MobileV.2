@@ -44,12 +44,4 @@ lib/
 3. Untuk build APK Android:
    ```bash
    flutter build apk --release
-   ```
-
-## Kustomisasi Lanjutan (opsional)
-- Ganti warna tema di `main.dart` / `star_background.dart`.
-- Tambah efek suara saat baris hilang (pakai package `audioplayers`).
-- Tambah ikon aplikasi custom lewat package `flutter_launcher_icons`.
-- Tambah animasi flash saat baris penuh dihapus di `board_widget.dart`.
-
-Selamat bermain & selamat coding, Riko! 🎮
+   ``
